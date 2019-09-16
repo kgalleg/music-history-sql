@@ -1,1 +1,1 @@
-# music-histosry-sql
+# music-history-sql
